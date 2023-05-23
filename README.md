@@ -1,9 +1,7 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-
-- 🌱 I’m currently learning **Framework**
+<p>I am a passionate full stack developer with a strong interest in the world of technology and web application development. My goal has always been and will continue to be to leverage my skills and knowledge in technologies such as React, Redux, Node.js, Sequelize, PostgreSQL, CSS3, and HTML5 to create innovative solutions that provide exceptional user experiences
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
